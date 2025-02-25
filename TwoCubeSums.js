@@ -28,8 +28,3 @@ function hasTwoCubeSums(n) {
 }
 
 
-console.log(hasTwoCubeSums(1729)); // true
-console.log(hasTwoCubeSums(42));   // false
-console.log(hasTwoCubeSums(4104)); // true
-console.log(hasTwoCubeSums(13832)); // true
-console.log(hasTwoCubeSums(100));   // false
